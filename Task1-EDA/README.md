@@ -1,4 +1,3 @@
-
 # Task 1 – Exploratory Data Analysis (EDA)
 
 This project performs exploratory data analysis on retail sales data to identify
